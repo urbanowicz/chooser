@@ -27,7 +27,6 @@ void fcopy(File source, File destination) {
   }
 }
 
-
 //-------------------------------------------
 //SHARED VARIABLES
 //-------------------------------------------
